@@ -1,0 +1,6 @@
+c:\users\мухамедьян\documents\visual studio 2017\Projects\FileLesson\FileHW\bin\Debug\FileHW.exe.config
+c:\users\мухамедьян\documents\visual studio 2017\Projects\FileLesson\FileHW\bin\Debug\FileHW.exe
+c:\users\мухамедьян\documents\visual studio 2017\Projects\FileLesson\FileHW\bin\Debug\FileHW.pdb
+c:\users\мухамедьян\documents\visual studio 2017\Projects\FileLesson\FileHW\obj\Debug\FileHW.csprojResolveAssemblyReference.cache
+c:\users\мухамедьян\documents\visual studio 2017\Projects\FileLesson\FileHW\obj\Debug\FileHW.exe
+c:\users\мухамедьян\documents\visual studio 2017\Projects\FileLesson\FileHW\obj\Debug\FileHW.pdb

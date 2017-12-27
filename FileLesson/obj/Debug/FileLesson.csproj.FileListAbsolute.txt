@@ -1,0 +1,6 @@
+c:\users\мухамедьян\documents\visual studio 2017\Projects\FileLesson\FileLesson\bin\Debug\FileLesson.exe.config
+c:\users\мухамедьян\documents\visual studio 2017\Projects\FileLesson\FileLesson\bin\Debug\FileLesson.exe
+c:\users\мухамедьян\documents\visual studio 2017\Projects\FileLesson\FileLesson\bin\Debug\FileLesson.pdb
+c:\users\мухамедьян\documents\visual studio 2017\Projects\FileLesson\FileLesson\obj\Debug\FileLesson.csprojResolveAssemblyReference.cache
+c:\users\мухамедьян\documents\visual studio 2017\Projects\FileLesson\FileLesson\obj\Debug\FileLesson.exe
+c:\users\мухамедьян\documents\visual studio 2017\Projects\FileLesson\FileLesson\obj\Debug\FileLesson.pdb

@@ -1,0 +1,5 @@
+c:\users\мухамедьян\documents\visual studio 2017\Projects\FileLesson\FileHW2\bin\Debug\FileHW2.exe.config
+c:\users\мухамедьян\documents\visual studio 2017\Projects\FileLesson\FileHW2\bin\Debug\FileHW2.exe
+c:\users\мухамедьян\documents\visual studio 2017\Projects\FileLesson\FileHW2\bin\Debug\FileHW2.pdb
+c:\users\мухамедьян\documents\visual studio 2017\Projects\FileLesson\FileHW2\obj\Debug\FileHW2.exe
+c:\users\мухамедьян\documents\visual studio 2017\Projects\FileLesson\FileHW2\obj\Debug\FileHW2.pdb
